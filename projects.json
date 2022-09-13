@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "name": "Trivia Game- Project 1",
+      "live": "https://maclamour.github.io/project1-Trivia/",
+      "git": "https://github.com/maclamour/project1-Trivia.git",
       "image": "http://www.imgur.com/pictureofproject.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "name": "TravelHub- Project 2",
+      "live": "https://travelhub3.herokuapp.com/login",
+      "git": "https://github.com/maclamour/Project-2-TravelHub.git",
       "image": "http://www.imgur.com/pictureofproject.png"
     }
   ]
